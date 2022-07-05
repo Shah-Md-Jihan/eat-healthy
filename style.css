@@ -141,3 +141,19 @@ p {
     font-weight: 700;
     font-size: 40px;
 }
+
+.footer {
+    background-color: #2b2525;
+    min-height: 200px;
+    padding-top: 40px;
+}
+
+.footer h3 {
+    text-align: center;
+    color: #fff;
+}
+
+.footer p {
+    text-align: center;
+    color: #fff;
+}
